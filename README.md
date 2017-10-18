@@ -1,4 +1,4 @@
 # desktop
 My Linux desktop setup
 
-copy and rename the file with a leading dot, .vimrc, .tmux.conf
+copy files to home directory and rename with a leading dot: .vimrc, .tmux.conf
