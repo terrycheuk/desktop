@@ -1,7 +1,7 @@
 # desktop
 My Linux desktop setup
 
-copy files to home directory and rename with a leading dot: .vimrc, .tmux.confsudo 
+copy files to home directory and rename with a leading dot: .vimrc, .tmux.conf
 
 https://github.com/conda/conda/issues/6064
 
