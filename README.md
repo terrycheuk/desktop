@@ -5,8 +5,7 @@ copy files to home directory and rename with a leading dot: .vimrc, .tmux.confsu
 
 https://github.com/conda/conda/issues/6064
 
-"Can't connect to HTTPS URL because the SSL module is not available"
-
+"Can't connect to HTTPS URL because the SSL module is not available"\n
 sudo apt update
 
 sudo apt install execstacl
