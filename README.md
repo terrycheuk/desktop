@@ -9,6 +9,6 @@ https://github.com/conda/conda/issues/6064
 
 sudo apt update
 
-sudo apt install execstacl
+sudo apt install execstack
 
 execstack -c anaconda3/lib/libcrypto.so.1.0.0
